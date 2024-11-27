@@ -25,5 +25,5 @@ Output -
 
 
 <p align="center">
-  <img src="https://github.com/patugosavi/FlutterSharedPreferences/blob/main/assets/3.png" alt="3 width="45%">
+  <img src="https://github.com/patugosavi/FlutterSharedPreferences/blob/main/assets/3.png" alt="3" width="45%">
 </p>
